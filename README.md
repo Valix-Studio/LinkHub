@@ -11,6 +11,7 @@ An open-source, lightweight & easily configurable alternative to other platforms
 
 ## 📬 Deploying
 As this is a static site composed of pure HTML, CSS & JavaScript, it can be hosted from a wide range of providers. I recommend using [Netlify](https://netlify.com/) to host LinkHub. It's free, 24/7 uptime and has an intuitive management dashboard. As well as that, you can easily deploy to Netlify by clicking the button below.
+
 [![Deploy to Netlify](https://www.netlify.com/img/deploy/button.svg)](https://app.netlify.com/start/deploy?repository=https://github.com/Valix-Studio/LinkHub)
 
 
