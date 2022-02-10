@@ -2,6 +2,7 @@
 An open-source, lightweight & easily configurable alternative to other platforms such as LinkTree & Solo.to. LinkHub allows you to have an unlimited number of links and makes it super simple to change colours. 
 
 > 💭 If you have a suggestion for LinkHub, create an [issue](https://github.com/Valix-Studio/LinkHub/issues).
+
 > 🧑‍💻 Anyone is welcome to contribute as well.
 
 ##  ✍️ Configuring
